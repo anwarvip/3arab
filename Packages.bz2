@@ -15,6 +15,7 @@ Author: affimbr <affimbr@gmail.com>
 Icon: file:///Library/PreferenceBundles/CallMagicPrefs.bundle/prefs-icon.png
 Name: CallMagic
 
+
 Package: com.julioverne.keyswipe11
 Version: 1.0
 Architecture: iphoneos-arm
