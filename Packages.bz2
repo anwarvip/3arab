@@ -27,7 +27,8 @@ SHA1: 7504174da64a9147816d1f34454ae967f5cb06be
 SHA256: 1007a931e585d0313288f5dcac9f412e75eb05c9bb4f03885966b5171239fa8b
 Section: Tweaks
 Homepage: https://julioverne.github.io/
-Description: Advanced call features.
+Description: التنقل بين اللغات الكيبورد بشكل اسرع
+Description: وذا لك يتيم عن طريق سحب الكيبورد للأعلى
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/icon@2x.png
 Name: keyswipe (ios11)
