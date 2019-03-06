@@ -1,18 +1,22 @@
-Package: com.julioverne.albumhider
+Package: com.affimbr.callmagic
+Version: 1.0
 Architecture: iphoneos-arm
-Version: 0.0~beta1
+Maintainer: affimbr <affimbr@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./com.affimbr.callmagic_1.0_iphoneos-arm.deb
+Size: 87440
+MD5sum: ba18fd940cc32868ee55031f20765744
+SHA1: 7504174da64a9147816d1f34454ae967f4cb06be
+SHA256: 1007a931e585d0313288f5dcac9f412e75eb05c9bb4f03885966b5971239fa8b
 Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
-Size: 17728
-MD5sum: 41ad9ed5df76a02da531eb1b12cc86ea
-Description: Hide Album's On Photo App
-Name: AlbumHider
-Author: julioverne
-Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.albumhider
+Homepage: https://anwarvip.github.io/repo/
+Description: Advanced call features.
+Author: affimbr <affimbr@gmail.com>
+Icon: file:///Library/PreferenceBundles/CallMagicPrefs.bundle/prefs-icon.png
+Name: CallMagic
 
-Package: com.julioverne.appellancy11
+
+Package: com.julioverne.keyswipe11
 Architecture: iphoneos-arm
 Version: 1.1-20b
 Priority: optional
@@ -21,7 +25,7 @@ Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: ./debfiles/com.julioverne.appellancy11_1.1-20b_iphoneos-arm.deb
+Filename: ./filedab/com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
 Size: 3709562
 MD5sum: 6ec175b926a05394b391c810408bf3cb
 Description: Control your phone with your face!
@@ -29,5 +33,5 @@ Name: Appellancy (iOS 11)
 Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
-Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.appellancy11
+Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.keyswipe11
 
