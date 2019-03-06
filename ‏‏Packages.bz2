@@ -31,8 +31,4 @@ Description: Control your phone with your face!
 Author: Elijah Frederickson, julioverne
 Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
 Name: Appellancy (iOS 11)
-Priority: optional
-Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
-Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-dev: elijahfrederickson
-Icon: 
+
