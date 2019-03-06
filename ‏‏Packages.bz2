@@ -16,7 +16,7 @@ Icon: file:///Library/PreferenceBundles/CallMagicPrefs.bundle/prefs-icon.png
 Name: CallMagic
 
 Package: com.julioverne.keyswipe11
-Version: 1.1-20b
+Version: 1.0.2-3b
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
