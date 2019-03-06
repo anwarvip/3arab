@@ -29,4 +29,8 @@ Description: Control your phone with your face!
 Author: Delewhopper, julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
 Name: KeySwipe (iOS 11)
+<<<<<<< HEAD
 dev: delewhopper
+=======
+dev: delewhopper
+>>>>>>> f073a850d02cdd04bca431f00ea40d8ab3c48673
