@@ -30,17 +30,18 @@ Author: Delewhopper, julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
 Name: KeySwipe (iOS 11)
 
-Package: com.ryleyangus.libertylite.beta
-Version: 0.0~beta
+Package: com.ryleyangus.libertylite
 Architecture: iphoneos-arm
-Maintainer: Ryley Angus
-Depends:  firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./filedab/com.ryleyangus.libertylite.beta_0.2.11_iphoneos-arm.deb
-Size: 3709562
-MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
+Version: 0.2.11
 Section: Tweaks
-Homepage: https://anwarvip.github.io/3arab/
+Maintainer: Ryley Angus
+Depends: mobilesubstrate
+Filename: ./debfiles/com.ryleyangus.libertylite.beta_0.2.11_iphoneos-arm.deb
+Size: 37516
+MD5sum: e4fe04fff5bb0aa820f0e4e9d92417de 
 Description: اخفاء وجود الجلبريك للتطبيقات
-Author: Ryley Angus
 Name: liberty lite (beta)
-
+Homepage: https://anwarvip.github.io/3arab/
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/libertyPref.bundle/libertyPref.png
+Depiction: http://anwarvip.github.io/description.html?id=com.ryleyangus.libertylite.beta
