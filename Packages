@@ -1,20 +1,3 @@
-Package: com.affimbr.callmagic
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: affimbr <affimbr@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
-Filename: ./filedab/com.affimbr.callmagic_1.0_iphoneos-arm.deb
-Size: 87440
-MD5sum: ba18fd940cc32868ee55031f20765744
-SHA1: 7504174da64a9147816d1f34454ae967f4cb06be
-SHA256: 1007a931e585d0313288f5dcac9f412e75eb05c9bb4f03885966b5971239fa8b
-Section: Tweaks
-Homepage: https://anwarvip.github.io/3arab/
-Description: Advanced call features.
-Author: affimbr <affimbr@gmail.com>
-Icon: file:///Library/PreferenceBundles/CallMagicPrefs.bundle/prefs-icon.png
-Name: CallMagic
-
 Package: com.julioverne.keyswipe11
 Version: 1.0.2-3a
 Architecture: iphoneos-arm
@@ -25,7 +8,7 @@ Size: 3709562
 MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
 Section: Tweaks
 Homepage: https://anwarvip.github.io/3arab/
-Description: Control your phone with your face!
+Description: تغيير سريع للكيبورد
 Author: Delewhopper, julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
 Name: KeySwipe (iOS 11)
@@ -46,6 +29,7 @@ Name: Liberty Lite (beta)
 Homepage: https://anwarvip.github.io/
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Depiction: http://anwarvip.github.io/description.html?id=com.ryleyangus.libertylite.beta
 
 Name: Smootheaders 11
 Package: com.cydiageek.smootheaders11
@@ -56,7 +40,7 @@ Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.l
 Version: 1.0.9
 Architecture: iphoneos-arm
 Description: مميزات عدة مثل تصغير حجم بانر الإشعار في الشاشة الرئيسية وشاشة القفل ومركز الإشعارات، إخفاء محتوى الإشعار، إخفاء أيقونة التطبيق، والكثير. iOS 11/12!
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smootheaders11Dp
+Depiction: http://anwarvip.github.io/description.html?id=com.cydiageek.smootheaders11
 MD5sum: d5ee3100b8af9597d429d4be757b18fd
 Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -66,7 +50,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Installed-Size: 553
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Smootheaders11.bundle/Smootheaders11@2x.png
-Depiction: http://anwarvip.github.io/description.html?id=com.cydiageek.smootheaders11
+
 
 
 
