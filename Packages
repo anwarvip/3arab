@@ -30,7 +30,7 @@ Author: Delewhopper, julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
 Name: KeySwipe (iOS 11)
 
-Package: com.ryleyangus.libertylite.beta
+Package: com.ryleyangus.libertylite
 Architecture: iphoneos-arm
 Version: 0.2.11
 Section: Tweaks
