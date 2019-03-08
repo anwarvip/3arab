@@ -51,6 +51,19 @@ Installed-Size: 553
 dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/Smootheaders11.bundle/Smootheaders11@2x.png
 
-
+Package: com.julioverne.albumhider
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
+Size: 17728
+MD5sum: 41ad9ed5df76a02da531eb1b12cc86ea
+Description: إخفاء الألبومات بتطبيق الصور
+Name: AlbumHider
+Homepage: https://anwarvip.github.io/
+Author: julioverne
+Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.albumhider
 
 
