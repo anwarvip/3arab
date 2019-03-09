@@ -9,6 +9,7 @@ MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
 Section: Tweaks
 Homepage: https://anwarvip.github.io/3arab/
 Description: تغيير سريع للكيبورد
+SileoDescription: الاداة تسهل عليك عميل تنقل بين اللغات والايموجي بالرفع لفوق او السحب للاسفل
 Author: Delewhopper, julioverne
 Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
 Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.keyswipe11
