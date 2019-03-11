@@ -117,8 +117,7 @@ Source: Pubg hack free read description
 Version: 6.beta
 Section: Developers
 Maintainer: xRepo <support@xRepo.co>
-Depends: mobilesubstrate
-Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
+Depends: mobilesubstrate, org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
 Architecture: iphoneos-arm
 Installed-Size: 964
 Name: Hack Pubg V6xRepo
