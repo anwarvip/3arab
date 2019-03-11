@@ -120,12 +120,12 @@ Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
 Filename: ./debfiles/me.a1iraqi.pubghackbymokadamios12_6.beta_iphoneos-arm.deb
 MD5sum: 08337baadb74667aa4602dfe29b54966
-Size: 3836056
+Size: 3836056 
 Depiction: http://anwarvip.github.io/description.html?id=me.a1iraqi.pubghackbymokadamios12
 Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
 Architecture: iphoneos-arm
 Installed-Size: 964
-Name: Hack Pubg V6 Beta
+Name: Hack Pubg V6 Beta  (iOS 11 - 12)
 Author: Ahmad Mokadam
 Sponsor: xRepo.co <http://xRepo.co>
 
