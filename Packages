@@ -1,18 +1,17 @@
+Author: Delewhopper, julioverne
+Maintainer: Julio
+Name: KeySwipe (iOS 11 - 12)
 Package: com.julioverne.keyswipe11
+MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Section: Tweaks
 Version: 1.0.2-3a
 Architecture: iphoneos-arm
-Maintainer: Julio
-Depends:  firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./filedab/com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
-Size: 3709562
-MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
-Section: Tweaks
-Homepage: https://anwarvip.github.io/3arab/
 Description: تغيير سريع للكيبورد
-Author: Delewhopper, julioverne
-Icon: file:///Library/PreferenceBundles/keyswipe11.bundle/keyswipe11@2x.png
+dev: delewhopper
+Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
 Depiction: http://anwarvip.github.io/description.html?id=com.julioverne.keyswipe11
-Name: KeySwipe (iOS 11 - 12)
 
 Package: com.ryleyangus.libertylite.beta
 Architecture: iphoneos-arm
@@ -43,7 +42,7 @@ Architecture: iphoneos-arm
 Description: مميزات عدة مثل تصغير حجم بانر الإشعار في الشاشة الرئيسية وشاشة القفل ومركز الإشعارات، إخفاء محتوى الإشعار، إخفاء أيقونة التطبيق، والكثير. iOS 11/12!
 Depiction: http://anwarvip.github.io/description.html?id=com.cydiageek.smootheaders11
 MD5sum: d5ee3100b8af9597d429d4be757b18fd
-Sponsor: http://anwarvip.github.io/description.html?id=com.cydiageek.smootheaders11
+Sponsor: http://anwarvip.github.io/3arab/
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
 Section: Tweaks
@@ -100,4 +99,28 @@ Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
 Version: 0.1.3
 Installed-Size: 582
 
+Package: com.yourepo.adnan.light
+Name: Light
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An OLED friendly iOS theme 11-12.
+Author: Adnan <adnanoooh@live.com>
+Section: Themes
+Maintainer: Adnan
+Depiction: http://anwarvip.github.io/description.html?id=com.yourepo.adnan.light
+Size: 753466
+Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
+MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
+Package: me.a1iraqi.pubgHackByMokadamios12
+Source: Pubg hack free read description
+Version: 6.beta
+Section: Developers
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
+Architecture: iphoneos-arm
+Installed-Size: 964
+Name: Hack Pubg V6 Beta
+Author: Ahmad Mokadam
+Sponsor: xRepo.co <http://xRepo.co>
