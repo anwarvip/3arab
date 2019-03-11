@@ -112,4 +112,17 @@ Size: 753466
 Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
 MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
+ Package: co.xrepo.Mokadam.PUBGMobilefree
+ Version: 3.1.1
+ Section: ÿ£ÿØŸàÿßÿ™ ŸÖŸÜ ÿ™ÿπÿ±Ÿäÿ®Ÿä
+ Maintainer: xRepo <support@xRepo.co>
+ Depends: mobilesubstrate
+ Conflicts: org.cydia.kiimo.pubg, com.arab-cydia.pubg, co.xrepo.mokadam.pubg, com.omar30.pubg
+ Architecture: iphoneos-arm
+ Installed-Size: 964
+ Name: Hack Pubg Lite V2
+ Author: Ahmad Mokadam
+ Sponsor: xRepo.co <http://xRepo.co>
+size 2191158
+MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
