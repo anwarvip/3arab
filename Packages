@@ -112,20 +112,21 @@ Size: 753466
 Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
 MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
-Package: co.xrepo.Mokadam.PUBGMobilefree
-Version: 3.1.1
-Section: pubg
-Description: هاك بوبجي
+Package: me.a1iraqi.pubgHackByMokadamios12
+Source: Pubg hack free read description
+Version: 6.beta
+Section: Developers
 Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
-Conflicts: org.cydia.kiimo.pubg, com.arab-cydia.pubg, co.xrepo.mokadam.pubg, com.omar30.pubg
+Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
 Architecture: iphoneos-arm
 Installed-Size: 964
-Name: Hack Pubg Lite V2
+Name: Hack Pubg V6xRepo
 Author: Ahmad Mokadam
 Sponsor: xRepo.co <http://xRepo.co>
-Size 2191158
-MD5sum: d4471ac422c6f3b29701dfcda7ccc012
-Depiction: http://anwarvip.github.io/description.html?id=co.xrepo.Mokadam.PUBGMobilefree
-Filename: ./debfiles/co.xrepo.mokadam.pubgmobilefree_3.1.1_iphoneos-arm.deb
+Description: هاك بوبجي
+Size 3836056
+MD5sum: 08337baadb74667aa4602dfe29b54966
+Depiction: http://anwarvip.github.io/description.html?id=me.a1iraqi.pubgHackByMokadamios12
+Filename: ./debfiles/me.a1iraqi.pubghackbymokadamios12_6.beta_iphoneos-arm.deb
 
