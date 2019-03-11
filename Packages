@@ -114,7 +114,7 @@ MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
 Package: co.xrepo.Mokadam.PUBGMobilefree
 Version: 3.1.1
-Section: هاك بوبجي اخفاء المباني والاعشاب والاشجار لاضهار العدو والوت
+Section: Tweaks
 Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
 Conflicts: org.cydia.kiimo.pubg, com.arab-cydia.pubg, co.xrepo.mokadam.pubg, com.omar30.pubg
@@ -123,7 +123,7 @@ Installed-Size: 964
 Name: Hack Pubg Lite V2
 Author: Ahmad Mokadam
 Sponsor: xRepo.co <http://xRepo.co>
-size 2191158
+Size 2191158
 MD5sum: d4471ac422c6f3b29701dfcda7ccc012
 Depiction: http://anwarvip.github.io/description.html?id=co.xrepo.Mokadam.PUBGMobilefree
 Filename: ./debfiles/co.xrepo.mokadam.pubgmobilefree_3.1.1_iphoneos-arm.deb
