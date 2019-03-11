@@ -114,7 +114,7 @@ MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
 Package: co.xrepo.Mokadam.PUBGMobilefree
 Version: 3.1.1
-Section: Tweaks
+Section: pubg
 Description: هاك بوبجي
 Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
