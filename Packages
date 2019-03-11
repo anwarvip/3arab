@@ -112,19 +112,20 @@ Size: 753466
 Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
 MD5sum: 471c4a728fb61898c2502db738aa4ffe
 
-Package: me.a1iraqi.pubgHackByMokadamios12
+Package: me.a1iraqi.pubghackbymokadamios12
 Name: Hack Pubg V6 Beta
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Pubg hack free read description
 Maintainer: xRepo <support@xRepo.co>
 Author: Ahmad Mokadam
-Section: Tweaks
+Section: Developers
 Version: 6.beta
 Installed-Size: 964
+Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
 Filename: ./debfiles/me.a1iraqi.pubghackbymokadamios12_6.beta_iphoneos-arm.deb
 MD5sum: 08337baadb74667aa4602dfe29b54966
-Size: 3836056 
+Size: 3836056
 Depiction: http://anwarvip.github.io/description.html?id=me.a1iraqi.pubghackbymokadamios12
 
 
