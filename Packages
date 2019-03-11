@@ -118,6 +118,7 @@ Version: 6.beta
 Section: Developers
 Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
+Filename: ./debfiles/me.a1iraqi.pubghackbymokadamios12_6.beta_iphoneos-arm.deb
 Conflicts: org.cydia.kiimo.PUBGMobilefree, com.arab-cydia.PUBGMobilefree, co.xrepo.mokadam.PUBGMobilefree, com.omar30.PUBGMobilefree
 Architecture: iphoneos-arm
 Installed-Size: 964
