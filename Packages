@@ -76,7 +76,6 @@ Architecture: iphoneos-arm
 MD5sum: f6d014f3bdb0acc1d2216841f154cdfc
 Filename: ./debfiles/com.shiarahmed.dangerous_1.2_iphoneos-arm.deb
 Description: ثيم ايقونات جميل جدا
-Homepage: https://anwarvip.github.io/
 Depiction: http://anwarvip.github.io/description.html?id=com.shiarahmed.dangerous
 Maintainer: Shiar
 Author: Shiar Ahmed <shiyar2002@icloud.com>
@@ -107,10 +106,10 @@ Author: anwar
 Maintainer: anwar
 Description: An OLED friendly iOS theme 11-12.
 Architecture: iphoneos-arm
-Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
 Depends: mobilesubstrate, preferenceloader, com.spark.snowboard
 MD5sum: e66799c9eeba180d697554192af818ac
 Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
 Size: 1297336
+ 
  
