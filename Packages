@@ -20,7 +20,7 @@ Section: Tweaks
 Maintainer: Ryley Angus
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
-Filename: ./debfiles/com.ryleyangus.libertylite.beta_0.2.11_iphoneos-arm.deb
+Filename: ./filedab/com.ryleyangus.libertylite.beta_0.2.11_iphoneos-arm.deb
 Size: 37516
 installed-size: 316
 MD5sum: e4fe04fff5bb0aa820f0e4e9d92417de
@@ -34,7 +34,7 @@ Depiction: http://anwarvip.github.io/description.html?id=com.ryleyangus.libertyl
 Name: Smootheaders11
 Package: com.cydiageek.smootheaders11
 Priority: optional
-Filename: ./debfiles/com.cydiageek.smootheaders11_1.0.9_iphoneos-arm.deb
+Filename: ./filedab/com.cydiageek.smootheaders11_1.0.9_iphoneos-arm.deb
 size: 55832 
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
 Version: 1.0.9
@@ -57,7 +57,7 @@ Version: 0.0~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
+Filename: ./filedab/com.julioverne.albumhider_0.0~beta1_iphoneos-arm.deb
 Size: 17728
 MD5sum: 41ad9ed5df76a02da531eb1b12cc86ea
 Description: إخفاء الألبومات بتطبيق الصور
@@ -74,7 +74,7 @@ Version: 1.2
 Size: 1047522
 Architecture: iphoneos-arm
 MD5sum: f6d014f3bdb0acc1d2216841f154cdfc
-Filename: ./debfiles/com.shiarahmed.dangerous_1.2_iphoneos-arm.deb
+Filename: ./filedab/com.shiarahmed.dangerous_1.2_iphoneos-arm.deb
 Description: ثيم ايقونات جميل جدا
 Depiction: http://anwarvip.github.io/description.html?id=com.shiarahmed.dangerous
 Maintainer: Shiar
@@ -88,7 +88,7 @@ Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences,
 Architecture: iphoneos-arm
 Size: 284446
 MD5sum: e935b5ea674ffacb6c5afe73cea9101a
-Filename: ./debfiles/tk.oceantweak.ocean_0.1.3_iphoneos-arm.deb
+Filename: ./filedab/tk.oceantweak.ocean_0.1.3_iphoneos-arm.deb
 Description: اضافية لمتجر Sileo
 Maintainer: webmaster@localhost.com
 Author: TeamOcean
@@ -108,7 +108,7 @@ Description: An OLED friendly iOS theme 11-12.
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, com.spark.snowboard
 MD5sum: e66799c9eeba180d697554192af818ac
-Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
+Filename: ./filedab/com.anwarvip.Light_2.0_ iphoneos-arm.deb
 Size: 1297336
  
  
