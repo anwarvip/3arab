@@ -4,6 +4,7 @@ Name: KeySwipe (iOS 11 - 12)
 Package: com.julioverne.keyswipe11
 MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./filedab/com.julioverne.keyswipe11_1.0.2-3a_iphoneos-arm.deb
 Conflicts: org.thebigboss.keyswipe
 Section: Tweaks
 Version: 1.0.2-3a
