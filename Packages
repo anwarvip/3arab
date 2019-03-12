@@ -108,7 +108,7 @@ Maintainer: anwar
 Description: An OLED friendly iOS theme 11-12.
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-MD5sum: e66799c9eeba180d697554192af818ac
+MD5sum: f92d376af09edff0d91f7dd3774d50ee
 Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
 Size: 1297336
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
