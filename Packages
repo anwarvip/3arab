@@ -98,15 +98,14 @@ Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
 Version: 0.1.3
 Installed-Size: 582
 
-Package: com.anwarvip.Light 
-Name: Light 
+Package: com.anwarvip.Light
+Name: Light 12
 Section: Themes
 Version: 2.0
 Author: anwar
 Maintainer: anwar
 Description: An OLED friendly iOS theme 11-12.
 Architecture: iphoneos-arm
-Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
 Depends: mobilesubstrate, preferenceloader, com.spark.snowboard
 MD5sum: e66799c9eeba180d697554192af818ac
 Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
