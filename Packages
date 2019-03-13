@@ -112,5 +112,18 @@ Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
 Size: 753466
 Depiction: http://anwarvip.github.io/description.html?id=com.yourepo.adnan.light
 
+Package: com.anwarvip.EliteXI
+Name: EliteXI
+Section: Themes
+Version: 1.0
+Author: anawr
+Maintainer: anwarvip
+Description: Themes EliteXI 11 - 12
+Architecture: iphoneos-arm
+Homepage: https://anwarvip.github.io/3arab/
+Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.EliteXI
+MD5sum: 471c4a728fb61898c2502db738aa4ffe
+Size: 753466
+Filename: ./debfiles/com.anwarvip.EliteXI_1.0_iphoneos-arm.deb
 
 
