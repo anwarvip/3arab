@@ -115,4 +115,14 @@ Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
 Size: 753596
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
 
+Package: com.anwarvip.anwarth
+Name: anwarth
+Section: Themes
+Version: 1.0
+Author: anwarvip
+Maintainer: anwar
+Description: http://anwarvip.github.io/description.html?id=com.anwarvip.anwarth
+Architecture: iphoneos-arm
+Size: 3837436
+MD5sum: 5117d777a0b129aa9c90fc863e338b3e
 
