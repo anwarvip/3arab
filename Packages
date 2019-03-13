@@ -107,12 +107,10 @@ Description: An OLED friendly iOS theme.
 Author: Adnan <adnanoooh@live.com>
 Section: Themes
 Maintainer: Adnan
-Homepage: https://anwarvip.github.io/3arab/
-Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
 MD5sum: 471c4a728fb61898c2502db738aa4ffe
-Filename: ./debfiles/com.anwarvip.Light_2.0_ iphoneos-arm.deb
+Filename: ./debfiles/com.yourepo.adnan.light_1.0_iphoneos-arm.deb
 Size: 753466
-Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.Light
+Depiction: http://anwarvip.github.io/description.html?id=com.yourepo.adnan.light
 
 
 
