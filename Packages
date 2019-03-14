@@ -122,8 +122,8 @@ Description: Themes EliteXI 11 - 12
 Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.elitexi
-MD5sum: 45a84fe845bb72406df1b8655baea1be
-Size: 46444172
+MD5sum: 85cb2f082a72afba76f3ad58787d34eb
+Size: 43584988
 Filename: ./debfiles/com.anwarvip.elitexi_2.0_iphoneos-arm.deb
 
 Package: com.anwarvip.anwarelitexi
