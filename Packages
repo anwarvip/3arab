@@ -126,17 +126,3 @@ MD5sum: 85cb2f082a72afba76f3ad58787d34eb
 Size: 43584988
 Filename: ./debfiles/com.anwarvip.elitexi_2.0_iphoneos-arm.deb
 
-Package: com.anwarvip.anwarelitexi
-Name: Anwar EliteXI
-Section: Themes
-Version: 1.0
-Author: anwar
-Maintainer: anwarvip
-Description: Themes Anwar EliteXI 11 - 12
-Architecture: iphoneos-arm
-Homepage: https://anwarvip.github.io/3arab/
-Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.anwarelitexi
-MD5sum: 8a012f663b485d1d8f672f487badf6f1
-Size: 3837248
-Filename: ./debfiles/com.anwarvip.anwarelitexi_1.0_iphoneos-arm.deb
-
