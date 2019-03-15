@@ -142,20 +142,19 @@ Size: 60482
 Filename: ./debfiles/net.tateu.nextalarm12_1.0.0~beta3_iphoneos-arm.deb
 
 Package: com.cpdigitaldarkroom.gridiculous
- Name: gridiculous
- Depends: mobilesubstrate, com.chpwn.iconsupport
- Architecture: iphoneos-arm
- Description: Icons Anywhere? That's Gridiculous
- Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
- Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
- Depiction: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
- Homepage: http://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.gridiculous/
- Section: Tweaks
- Version: 0.2~beta1
- Installed-Size: 136
- MD5sum: f86a180749f268af973120dcc7568e8b
+Name: gridiculous
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: توزيع ايقونات الشاشة الرئيسية في اي مكان
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://anwarvip.github.io/description.html?id=com.cpdigitaldarkroom.gridiculous
+Section: Tweaks
+Version: 0.2~beta1
+Installed-Size: 136
+MD5sum: f86a180749f268af973120dcc7568e8b
 Size: 10076
-Filename: ./debfiles/net.tateu.nextalarm12_1.0.0~beta3_iphoneos-arm.deb
+Filename: ./debfiles/com.cpdigitaldarkroom.gridiculous_0.2~beta1_iphoneos-arm.deb
 
 
 
