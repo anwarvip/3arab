@@ -156,5 +156,21 @@ MD5sum: f86a180749f268af973120dcc7568e8b
 Size: 10076
 Filename: ./debfiles/com.cpdigitaldarkroom.gridiculous_0.2~beta1_iphoneos-arm.deb
 
+Package: com.cpdigitaldarkroom.anis
+ Name: Anisette
+ Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+ Architecture: iphoneos-arm
+ Description: Centralized Hotbar For Apps & Shortcuts
+ Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+ Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+ Section: Tweaks
+ Tag: purpose::extension, compatible::ios8, compatible::ios9
+ dev: cpdigitaldarkroom
+ Version: 1.2
+ Installed-Size: 564
+MD5sum: 053b1e1a61d6672f96ea850472ef8477
+Size: 84034
+Filename: ./debfiles/com.cpdigitaldarkroom.gridiculous_0.2~beta1_iphoneos-arm.deb
+
 
 
