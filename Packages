@@ -130,7 +130,7 @@ Package: net.tateu.nextalarm12
 Name: NextAlarm12
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Show the next alarm (today or tomorrow only) in the status bar, under the LockScreen clock and/or as a badge on the clock icon.
+Description: اظاهر وقت المنبة بشاشة القفل وشريط الحالة.
 Maintainer: tateu
 Author: tateu
 Depiction: http://www.tateu.net/repo/html/?p=nextalarm12
