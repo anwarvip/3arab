@@ -174,5 +174,22 @@ Size: 84034
 Filename: ./debfiles/com.cpdigitaldarkroom.anis_1.2_iphoneos-arm.deb
 Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
 
-
+Package: com.peterdev.xeon
+Name: Xeon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Architecture: iphoneos-arm
+Description: Supercharge status bar!
+Replaces: com.alexzielenski.zeppelin, zeppelin
+Provides: com.alexzielenski.zeppelin, zeppelin
+Conflicts: com.alexzielenski.zeppelin, zeppelin
+Maintainer: PeterDev <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
+Icon: https://nexusrepo.kro.kr/depictions/com.peterdev.xeon/screenshots/Icon.png
+Section: Tweaks
+Version: 1.0
+Installed-Size: 2168
+Depiction: http://anwarvip.github.io/description.html?id=com.cpdigitaldarkroom.anis
+MD5sum: 053b1e1a61d6672f96ea850472ef8477
+Size: 84034
+Filename: ./debfiles/com.cpdigitaldarkroom.anis_1.2_iphoneos-arm.deb
 
