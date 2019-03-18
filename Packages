@@ -209,20 +209,20 @@ Size: 14666
 Filename: ./debfiles/com.r0wdrunner.tabsa_1.0_iphoneos-arm.deb
 
 Package: ca.ndoizo.bolders
- Name: Bolders
- Depends: mobilesubstrate, firmware (>= 8.0), com.chpwn.iconsupport
- Architecture: iphoneos-arm
- Description: Bigger bolder folders
- Maintainer: candoizo
- Author: candoizo <candoizo.tweaks@pm.me>
- Section: Tweaks
- Icon: file:///Library/PreferenceBundles/BoldersPrefs.bundle/Icon/Icon.png
- Depiction: https://ndoizo.ca/ca.ndoizo.bolders
- Version: 1.1
- Installed-Size: 352
+Name: Bolders
+Depends: mobilesubstrate, firmware (>= 8.0), com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: عرض المجلدات بملء الشاشة
+Maintainer: candoizo
+Author: candoizo <candoizo.tweaks@pm.me>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/BoldersPrefs.bundle/Icon/Icon.png
+Depiction: http://anwarvip.github.io/description.html?id=ca.ndoizo.bolders
+Version: 1.1
+Installed-Size: 352
 MD5sum: 737c1fdb25c27cb5aaf0ea5a880d6722
 Size: 43772
-Filename: ./debfiles/com.r0wdrunner.tabsa_1.0_iphoneos-arm.deb
+Filename: ./debfiles/ca.ndoizo.bolders_1.1_iphoneos-arm.deb
 
 
 
