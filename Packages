@@ -194,19 +194,19 @@ Size: 463618
 Filename: ./debfiles/com.peterdev.xeon_1.0_iphoneos-arm.deb
 
 Package: com.r0wdrunner.tabsa
- Name: Tabsa
- Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
- Architecture: iphoneos-arm
- Description: Tabs in Safari
- Maintainer: R0wDrunner
- Author: R0wDrunner
- Section: Tweaks
- Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.tabsa
- Version: 1.0
- Installed-Size: 166
- MD5sum: 98185e9fd97992308cf84ebb2818a809
+Name: Tabsa
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: تقسيم علامات التبويب أسفل البار العلوي في متصفح Safari
+Maintainer: R0wDrunner
+Author: R0wDrunner
+Section: Tweaks
+Depiction: http://anwarvip.github.io/description.html?id=com.r0wdrunner.tabsa
+Version: 1.0
+Installed-Size: 166
+MD5sum: 98185e9fd97992308cf84ebb2818a809
 Size: 14666
-Filename: ./debfiles/com.peterdev.xeon_1.0_iphoneos-arm.deb
+Filename: ./debfiles/com.r0wdrunner.tabsa_1.0_iphoneos-arm.deb
 
 
 
