@@ -177,6 +177,7 @@ Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
 Package: com.peterdev.xeon
 Name: Xeon
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Description: تخصيص اسم الشبكة
 Architecture: iphoneos-arm
 Replaces: com.alexzielenski.zeppelin, zeppelin
 Provides: com.alexzielenski.zeppelin, zeppelin
