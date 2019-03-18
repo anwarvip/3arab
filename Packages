@@ -178,7 +178,6 @@ Package: com.peterdev.xeon
 Name: Xeon
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
 Architecture: iphoneos-arm
-Description: Supercharge status bar!
 Replaces: com.alexzielenski.zeppelin, zeppelin
 Provides: com.alexzielenski.zeppelin, zeppelin
 Conflicts: com.alexzielenski.zeppelin, zeppelin
