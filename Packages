@@ -224,6 +224,20 @@ MD5sum: 737c1fdb25c27cb5aaf0ea5a880d6722
 Size: 43772
 Filename: ./debfiles/ca.ndoizo.bolders_1.1_iphoneos-arm.deb
 
+Package: me.nepeta.selector
+Name: Selector
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: إضافة خيارات (ترجمة وبحث)
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
+Version: 0.1.1
+Installed-Size: 192
+MD5sum: d1524e4fa1d1099cec8d26b363f9c3fe
+Size: 24648
+Filename: ./debfiles/me.nepeta.selector_0.1.1_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id= me.nepeta.selector
 
 
 
