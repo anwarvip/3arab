@@ -120,9 +120,110 @@ Author: anwar
 Maintainer: anwarvip
 Description: Themes EliteXI 11 - 12
 Architecture: iphoneos-arm
-Homepage: https://anwarvip.github.io/3arab/
+Homepage: https://anwarvip.github.io/3rab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.elitexi
 MD5sum: 85cb2f082a72afba76f3ad58787d34eb
 Size: 43584988
 Filename: ./debfiles/com.anwarvip.elitexi_2.0_iphoneos-arm.deb
+
+Package: net.tateu.nextalarm12
+Name: NextAlarm12
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: اظاهر وقت المنبة بشاشة القفل وشريط الحالة.
+Maintainer: tateu
+Author: tateu
+Depiction: http://anwarvip.github.io/description.html?id=net.tateu.nextalarm12
+Section: Tweaks
+Version: 1.0.0~beta3
+Installed-Size: 279
+MD5sum: e3c0b4a2462926bcb68a4cc0a717b66a
+Size: 60482
+Filename: ./debfiles/net.tateu.nextalarm12_1.0.0~beta3_iphoneos-arm.deb
+
+Package: com.cpdigitaldarkroom.gridiculous
+Name: gridiculous
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: توزيع ايقونات الشاشة الرئيسية في اي مكان
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://anwarvip.github.io/description.html?id=com.cpdigitaldarkroom.gridiculous
+Section: Tweaks
+Version: 0.2~beta1
+Installed-Size: 136
+MD5sum: f86a180749f268af973120dcc7568e8b
+Size: 10076
+Filename: ./debfiles/com.cpdigitaldarkroom.gridiculous_0.2~beta1_iphoneos-arm.deb
+
+Package: com.cpdigitaldarkroom.anis
+Name: Anisette
+Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: تظهر اختصارات مفيدة يمين الشاشة
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+dev: cpdigitaldarkroom
+Version: 1.2
+Installed-Size: 564
+Depiction: http://anwarvip.github.io/description.html?id=com.cpdigitaldarkroom.anis
+MD5sum: 053b1e1a61d6672f96ea850472ef8477
+Size: 84034
+Filename: ./debfiles/com.cpdigitaldarkroom.anis_1.2_iphoneos-arm.deb
+Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
+
+Package: com.peterdev.xeon
+Name: Xeon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Description: تخصيص اسم الشبكة
+Architecture: iphoneos-arm
+Replaces: com.alexzielenski.zeppelin, zeppelin
+Provides: com.alexzielenski.zeppelin, zeppelin
+Conflicts: com.alexzielenski.zeppelin, zeppelin
+Maintainer: PeterDev <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
+Icon: https://nexusrepo.kro.kr/depictions/com.peterdev.xeon/screenshots/Icon.png
+Section: Tweaks
+Version: 1.0
+Installed-Size: 2168
+Depiction: http://anwarvip.github.io/description.html?id=com.peterdev.xeon
+MD5sum: 9b8afb0d0502678efca3bfd52037d806
+Size: 463618
+Filename: ./debfiles/com.peterdev.xeon_1.0_iphoneos-arm.deb
+
+Package: com.r0wdrunner.tabsa
+Name: Tabsa
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: تقسيم علامات التبويب أسفل البار العلوي في متصفح Safari
+Maintainer: R0wDrunner
+Author: R0wDrunner
+Section: Tweaks
+Depiction: http://anwarvip.github.io/description.html?id=com.r0wdrunner.tabsa
+Version: 1.0
+Installed-Size: 166
+MD5sum: 98185e9fd97992308cf84ebb2818a809
+Size: 14666
+Filename: ./debfiles/com.r0wdrunner.tabsa_1.0_iphoneos-arm.deb
+
+Package: ca.ndoizo.bolders
+Name: Bolders
+Depends: mobilesubstrate, firmware (>= 8.0), com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Description: عرض المجلدات بملء الشاشة
+Maintainer: candoizo
+Author: candoizo <candoizo.tweaks@pm.me>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/BoldersPrefs.bundle/Icon/Icon.png
+Depiction: http://anwarvip.github.io/description.html?id=ca.ndoizo.bolders
+Version: 1.1
+Installed-Size: 352
+MD5sum: 737c1fdb25c27cb5aaf0ea5a880d6722
+Size: 43772
+Filename: ./debfiles/ca.ndoizo.bolders_1.1_iphoneos-arm.deb
+
+
+
 
