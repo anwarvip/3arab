@@ -243,7 +243,7 @@ Package: com.anwarvip.wicellswitcher
 Name: WiCellSwitcher
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Switch between Wi-Fi and Cellular the Smart Way!
+Description: إغلاق الـ Wi-Fi تلقائياً عند تشغيل البيانات الخلوية، وإغلاق البيانات الخلوية تلقائياً عند تشغيل الـ Wi-Fi مما يساعد في الحفاظ على البطارية.
 Maintainer: anwar <anwar.vip@gmail.com>
 Author: anwar <anwar.vip@gmail.com>
 Section: Tweaks
