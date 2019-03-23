@@ -239,5 +239,20 @@ Size: 24648
 Filename: ./debfiles/me.nepeta.selector_0.1.1_iphoneos-arm.deb
 Depiction: http://anwarvip.github.io/description.html?id=me.nepeta.selector
 
+Package: com.anwarvip.wicellswitcher
+Name: WiCellSwitcher
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Switch between Wi-Fi and Cellular the Smart Way!
+Maintainer: anwar <anwar.vip@gmail.com>
+Author: anwar <anwar.vip@gmail.com>
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 156
+MD5sum: 7baeedba802ddd7242aaad2b6deeff4d
+Size: 32172
+Filename: ./debfiles/com.anwarvip.wicellswitcher_0.0.4_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.wicellswitcher
+
 
 
