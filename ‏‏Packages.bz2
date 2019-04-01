@@ -224,6 +224,48 @@ MD5sum: 737c1fdb25c27cb5aaf0ea5a880d6722
 Size: 43772
 Filename: ./debfiles/ca.ndoizo.bolders_1.1_iphoneos-arm.deb
 
+Package: me.nepeta.selector
+Name: Selector
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: إضافة خيارات (ترجمة وبحث)
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
+Version: 0.1.1
+Installed-Size: 192
+MD5sum: d1524e4fa1d1099cec8d26b363f9c3fe
+Size: 24648
+Filename: ./debfiles/me.nepeta.selector_0.1.1_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id=me.nepeta.selector
 
+Package: com.anwarvip.wicellswitcher
+Name: WiCellSwitcher
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إغلاق الـ Wi-Fi تلقائياً عند تشغيل البيانات الخلوية، وإغلاق البيانات الخلوية تلقائياً عند تشغيل الـ Wi-Fi مما يساعد في الحفاظ على البطارية.
+Maintainer: anwar <anwar.vip@gmail.com>
+Author: anwar <anwar.vip@gmail.com>
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 156
+MD5sum: 7baeedba802ddd7242aaad2b6deeff4d
+Size: 32172
+Filename: ./debfiles/com.anwarvip.wicellswitcher_0.0.4_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.wicellswitcher
 
+Package: com.anwarvip.appstore
+Name: AppStore.app
+Section: Development
+Version: 0.0.2
+Author: anwar
+Maintainer: anwar
+Description:  حل مشكلة ملف التعريب
+Architecture: iphoneos-arm
+Homepage: https://anwarvip.github.io/3arab/
+Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore
+Depends: mobilesubstrate, firmware (>= 12.1)
+MD5sum: bac18f4115122681760715ab8a37f66b
+Size: 32172
+Filename: ./debfiles/com.anwarvip.appstore_0.0.2_iphoneos-arm.deb
 
