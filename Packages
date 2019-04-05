@@ -255,7 +255,7 @@ Filename: ./debfiles/com.anwarvip.wicellswitcher_0.0.4_iphoneos-arm.deb
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.wicellswitcher
 
 Package: com.anwarvip.appstore
-Name: AppStore.app
+Name: AppStore.app 12.1
 Section: Development
 Version: 0.0.2
 Author: anwar
