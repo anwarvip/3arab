@@ -270,7 +270,7 @@ Size: 7059576
 Filename: ./debfiles/com.anwarvip.appstore_0.0.2_iphoneos-arm.deb
 
 Package: com.anwarvip.appstore11
-Name: AppStore.app
+Name: AppStore.app 11
 Section: Development
 Version: 0.0.3
 Author: anwar
@@ -285,7 +285,7 @@ Size: 14604744
 Filename: ./debfiles/com.anwarvip.appstore11_0.0.3_iphoneos-arm.deb
 
 Package: com.anwarvip.appstore12
-Name: AppStore.app
+Name: AppStore.app 12
 Section: Development
 Version: 0.0.3
 Author: anwar
