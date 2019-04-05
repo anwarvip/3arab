@@ -280,8 +280,8 @@ Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore11
 Depends: mobilesubstrate, firmware (>= 12.1), firmware (<< 11.4)
-MD5sum: bac18f4115122681760715ab8a37f66b
-Size: 7059576
+MD5sum: 65890977cb5fcb4faef290ef4f77282a
+Size: 14604744
 Filename: ./debfiles/com.anwarvip.appstore11_0.0.3_iphoneos-arm.deb
 
 Package: com.anwarvip.appstore12
@@ -295,7 +295,7 @@ Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore12
 Depends: mobilesubstrate, firmware (>= 12.1)
-MD5sum: bac18f4115122681760715ab8a37f66b
-Size: 7059576
+MD5sum: 431d35b5674b2677d477840aac14978f
+Size: 14178912
 Filename: ./debfiles/com.anwarvip.appstore12_0.0.3_iphoneos-arm.deb
 
