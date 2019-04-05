@@ -270,12 +270,12 @@ Size: 7059576
 Filename: ./debfiles/com.anwarvip.appstore_0.0.2_iphoneos-arm.deb
 
 Package: com.anwarvip.appstore11
-Name: AppStore.app 11
+Name: AppStore.app
 Section: Development
 Version: 0.0.3
 Author: anwar
 Maintainer: anwar
-Description:  حل مشكلة ملف التعريب
+Description:  AppStore.app
 Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore11
