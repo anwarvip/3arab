@@ -10,9 +10,9 @@
          "hideShadow":false
       },
       {  
-         "url":"https://nexusrepo.kro.kr/sileo-featured-images/powerguardbanner.png",
-         "title":"PowerGuard",
-         "package":"com.peterdev.powerguard",
+         "url":"https://raw.githubusercontent.com/anwarvip/AppStore/master/img/header1.png",
+         "title":"AppStore.app 12",
+         "package":"com.anwarvip.appstore12",
          "hideShadow":false
       },
       {  
