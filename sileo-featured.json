@@ -1,0 +1,31 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {  
+         "url":"https://nexusrepo.kro.kr/depictions/com.peterdev.xeon/sileo-depiction/images/header.png",
+         "title":"Xeon",
+         "package":"com.peterdev.xeon",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://nexusrepo.kro.kr/sileo-featured-images/powerguardbanner.png",
+         "title":"PowerGuard",
+         "package":"com.peterdev.powerguard",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://nexusrepo.kro.kr/depictions/com.peterdev.carrierhider/sileo-depiction/images/header.png",
+         "title":"Carrier Hider",
+         "package":"com.peterdev.carrierhider",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://nexusrepo.kro.kr/depictions/com.peterdev.hidejbapps/sileo-depiction/images/header.png",
+         "title":"Hide JB Apps",
+         "package":"com.peterdev.hidejbapps",
+         "hideShadow":false
+      }
+   ]
+}
