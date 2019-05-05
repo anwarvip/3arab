@@ -298,4 +298,4 @@ MD5sum: 431d35b5674b2677d477840aac14978f
 Size: 14178912
 Filename: ./debfiles/com.anwarvip.appstore12_0.0.3_iphoneos-arm.deb
 minVersion String	Minimum app version required for Sileo to display the depiction. Should be 0.1 for now.
-headerImage ./image/header1.png
+headerImage https://raw.githubusercontent.com/anwarvip/AppStore/master/img/header1.png
