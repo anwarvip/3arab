@@ -1,3 +1,10 @@
+{  
+   "url":"https://nexusrepo.kro.kr/sileo-featured-images/powerguardbanner.png",
+   "title":"PowerGuard",
+   "package":"com.peterdev.powerguard",
+   "hideShadow":false
+}
+
 Author: Delewhopper, julioverne
 Maintainer: Julio
 Name: KeySwipe (iOS 11 - 12)
