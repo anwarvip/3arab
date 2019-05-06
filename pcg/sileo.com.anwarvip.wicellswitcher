@@ -9,9 +9,28 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"إغلاق الـ(الواي فاي) تلقائياً عند تشغيل البيانات الخلوية، وإغلاق البيانات الخلوية تلقائياً عند تشغيل الـ (الواي فاي) مما يساعد في الحفاظ على البطارية.<br>",
+					"markdown":" اذا كنت تواجه مشكلة تخبط النصوص داخل متجر الابستور بعد تثبيت اي اداة تخص الابستور او كراش او اختفاء الايقونه ثبت الاداة<br>بعد تحميلك الاداة قم بفتح الترمينل .<br>su ثم<br>  alpine ثم<br>3rab ثم<br> اختر الاصدار الخاص بجهازك  <br>انتظر لحين اعادة تشغيل الجهاز.<br>الاداة تقوم بتحميل ملفات الابستور في مسار معين ووضع اوامر لترمينال لنقلها الى المسار المخصص لها فقط يمكنك بعد ذلك حذف الاداة ولاتوجد اي مشكله في ذالك",
 					"useSpacing":true
-				}
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"Support",
+					"action":"https://anwarvip.github.io/AppStore/",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://anwarvip.github.io/AppStore/img/header1.png"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://anwarvip.github.io/AppStore/img/main1.png"
+						}
 					]
 				},
 				{
@@ -57,7 +76,7 @@
 				},
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"",
+					"markdown":"1. Packix is now a default repo\n2. Fix a crash that would occur after a user deleted a repo",
 					"useSpacing":true
 				},
 				{
