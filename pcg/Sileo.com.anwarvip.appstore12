@@ -78,6 +78,18 @@
 					"class":"DepictionMarkdownView",
 					"markdown":"1. Packix is now a default repo\n2. Fix a crash that would occur after a user deleted a repo",
 					"useSpacing":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"paypal",
+					"action":"https://www.paypal.me/anwarvip",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"twitter",
+					"action":"https://twitter.com/3rabsa",
+					"openExternal":true
 				}
 			]
 		}
