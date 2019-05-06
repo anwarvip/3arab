@@ -1,0 +1,97 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Details",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"عرض عناصر مركز التحكم والتطبيقات المستخدمة مؤخراً بشكل جميل وأنيق من على يمين الشاشة عبر إيماء يتم تخصيصه بواسطة Activator.",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"سورس المطور",
+					"action":"https://beta.cpdigitaldarkroom.com/",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://i.imgur.com/SIsjPmp.png"
+						},
+            	{
+							"accessibilityText":"Screenshot",
+							"url":"https://i.imgur.com/3AHj6JF.png"
+						}
+					]
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Information"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"May 3, 2019",
+					"title":"Updated"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Free Package",
+					"title":"License"
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"paypal",
+					"action":"https://www.paypal.me/anwarvip",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"twitter",
+					"action":"https://twitter.com/3rabsa",
+					"openExternal":true
+				}
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"1.0.5",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Packix is now a default repo\n2. Fix a crash that would occur after a user deleted a repo",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"paypal",
+					"action":"https://www.paypal.me/anwarvip",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"twitter",
+					"action":"https://twitter.com/3rabsa",
+					"openExternal":true
+				}
+			]
+		}
+	]
+}
