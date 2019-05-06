@@ -264,6 +264,7 @@ Description:  حل مشكلة ملف التعريب
 Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore
+SileoDepiction: http://anwarvip.github.io/description.html?id=sileo.com.anwarvip.appstore
 Depends: mobilesubstrate, firmware (>= 12.1)
 MD5sum: bac18f4115122681760715ab8a37f66b
 Size: 7059576
@@ -279,6 +280,7 @@ Description:  حل مشكلة ملف التعريب
 Architecture: iphoneos-arm
 Homepage: https://anwarvip.github.io/3arab/
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore11
+SileoDepiction: https://anwarvip.github.io/3rab/pcg/sileo.com.anwarvip.appstore11
 Depends: mobilesubstrate, firmware (>= 11.3), firmware (<< 11.4)
 MD5sum: 65890977cb5fcb4faef290ef4f77282a
 Size: 14604744
