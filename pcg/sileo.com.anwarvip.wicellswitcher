@@ -12,27 +12,7 @@
 					"markdown":"إغلاق الـ(الواي فاي) تلقائياً عند تشغيل البيانات الخلوية، وإغلاق البيانات الخلوية تلقائياً عند تشغيل الـ (الواي فاي) مما يساعد في الحفاظ على البطارية",
 					"useSpacing":true
 				},
-				{
-					"class":"DepictionTableButtonView",
-					"title":"Support",
-					"action":"https://anwarvip.github.io/AppStore/",
-					"openExternal":true
-				},
-				{
-					"class":"DepictionScreenshotsView",
-					"itemCornerRadius":12.8,
-					"itemSize":"{160, 346}",
-					"screenshots":[
-						{
-							"accessibilityText":"Screenshot",
-							"url":""
-						},
-						{
-							"accessibilityText":"Screenshot",
-							"url":""
-						}
-					]
-				},
+				
 				{
 					"class":"DepictionSeparatorView"
 				},
