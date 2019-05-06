@@ -9,13 +9,13 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":" إضافة خيارات (ترجمة وبحث) إلى قائمة خيارات التحديد بحيث يمكنك ترجمة الكلمات أو البحث عنها بواسطة قوقل بشكل سريع وجميل وأنيق جداً.<br>(يمكن تحديد خدمة غير قوقل)",
+					"markdown":"تخصيص اسم الشبكة في \niPhone X \nعبر تعيين رمز من تلك المضمنة مع الأداة \nو تخصيص نص معين",
 					"useSpacing":true
 				},
 				{
 					"class":"DepictionTableButtonView",
 					"title":"سورس المطور",
-					"action":"https://repo.nepeta.me/",
+					"action":"https://nexusrepo.kro.kr/",
 					"openExternal":true
 				},
 				{
@@ -25,7 +25,7 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://i.imgur.com/NBBgaRs.jpg"
+							"url":"http://i.imgur.com/4jObDKr.jpg"
 						}
 					]
 				},
