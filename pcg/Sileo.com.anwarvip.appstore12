@@ -2,7 +2,7 @@
 	"class":"DepictionTabView",
 	"minVersion":"0.3",
 	"headerImage":"",
-	"tintColor":"#61fe00",
+	"tintColor":"#00b1cb",
 	"tabs":[
 		{
 			"class":"DepictionStackView",
