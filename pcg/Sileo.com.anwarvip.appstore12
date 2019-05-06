@@ -40,17 +40,11 @@
 					"title":"Updated"
 				},
 				{
-				"class":"DepictionTableButtonView",
-				"title":"Support",
-				"action":"https://hbang.ws/support/",
-				"openExternal":true
+					"class":"DepictionTableButtonView",
+					"title":"Support",
+					"action":"https://hbang.ws/support/",
+					"openExternal":true
 				},
-				{
-				"class":"DepictionMarkdownView",
-				"markdown":"<style>p{color:#888}a{color:#fe9f00}</style><p><small>Prices are in US Dollars and include tax.</small></p><p><small><a href=\"https://chariz.io/\">Chariz</a> by HASHBANG Productions</small></p>\n<p><small><a href=\"https://twitter.com/CharizTeam\">@CharizTeam</a>&nbsp; &nbsp;<a href=\"https://hbang.ws/go/discord\">Discord</a></small></p>",
-				"useRawFormat":true,
-				"baseURL":"https://chariz.io/"
-				}
 				{
 					"class":"DepictionTableTextView",
 					"text":"Free Package",
