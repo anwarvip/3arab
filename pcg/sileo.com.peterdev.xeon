@@ -9,13 +9,13 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"تخصيص اسم الشبكة في iPhone X عبر تعيين رمز من تلك المضمنة مع الأداة، أو تخصيص نص معين.<br>(تعتبر هي أداة Zeppelin ولكن للأجهزة الحديثة)",
+					"markdown":" إضافة خيارات (ترجمة وبحث) إلى قائمة خيارات التحديد بحيث يمكنك ترجمة الكلمات أو البحث عنها بواسطة قوقل بشكل سريع وجميل وأنيق جداً.<br>(يمكن تحديد خدمة غير قوقل)",
 					"useSpacing":true
 				},
 				{
 					"class":"DepictionTableButtonView",
 					"title":"سورس المطور",
-					"action":"https://nexusrepo.kro.kr/",
+					"action":"https://repo.nepeta.me/",
 					"openExternal":true
 				},
 				{
@@ -25,7 +25,7 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"http://i.imgur.com/4jObDKr.jpg"
+							"url":"https://i.imgur.com/NBBgaRs.jpg"
 						}
 					]
 				},
