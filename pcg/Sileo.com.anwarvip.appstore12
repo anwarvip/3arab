@@ -49,6 +49,18 @@
 					"class":"DepictionTableTextView",
 					"text":"Free Package",
 					"title":"License"
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"paypal",
+					"action":"https://www.paypal.me/anwarvip",
+					"openExternal":true
+				},
+				{
+					"class":"DepictionTableButtonView",
+					"title":"Support",
+					"action":"https://twitter.com/3rab",
+					"openExternal":true
 				}
 			]
 		},
