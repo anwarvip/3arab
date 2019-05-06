@@ -13,6 +13,12 @@
 					"useSpacing":true
 				},
 				{
+					"class":"DepictionTableButtonView",
+					"title":"Support",
+					"action":"https://anwarvip.github.io/AppStore/",
+					"openExternal":true
+				},
+				{
 					"class":"DepictionScreenshotsView",
 					"itemCornerRadius":12.8,
 					"itemSize":"{160, 346}",
@@ -38,12 +44,6 @@
 					"class":"DepictionTableTextView",
 					"text":"May 3, 2019",
 					"title":"Updated"
-				},
-				{
-					"class":"DepictionTableButtonView",
-					"title":"Support",
-					"action":"https://hbang.ws/support/",
-					"openExternal":true
 				},
 				{
 					"class":"DepictionTableTextView",
