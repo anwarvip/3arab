@@ -89,7 +89,7 @@
 				{
 					"class":"DepictionTableButtonView",
 					"title":"twitter",
-					"action":"twitter://twitter.com/3rabsa",
+					"action":"twitter://url/https://twitter.com/3rabsa",
 					"openExternal":true
 				}
 			]
