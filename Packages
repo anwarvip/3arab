@@ -1,3 +1,4 @@
+
 Author: Delewhopper, julioverne
 Maintainer: Julio
 Name: KeySwipe (iOS 11 - 12)
@@ -301,3 +302,19 @@ Size: 14178912
 Filename: ./debfiles/com.anwarvip.appstore12_0.0.3_iphoneos-arm.deb
 SileoDepiction: https://anwarvip.github.io/3rab/pcg/Sileo.com.anwarvip.appstore12
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore12
+
+
+
+Package: org.cydia.kiimo.pubghacker1
+ Version: 0.14.0-1b
+ Section: Hacks Game
+ Maintainer: Kiiimo <support@kiiimo.org>
+ Depends: mobilesubstrate
+ Conflicts: org.cydia.kiimo.pubghacker
+ Architecture: iphoneos-arm
+ Installed-Size: 604
+ Name: PUBG Hack 3b v0.14.0
+ Author: kgfunn&7mo0dd9
+ Sponsor: kiiimo.org <http://kiiimo.org>
+
+
