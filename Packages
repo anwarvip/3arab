@@ -305,7 +305,7 @@ Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore12
 
 Package: org.cydia.kiimo.pubghacker1
 Version: 0.14.0-1b
-Section: Hacks Game
+Section: Tweaks
 Maintainer: Kiiimo <support@kiiimo.org>
 Depends: mobilesubstrate
 Conflicts: org.cydia.kiimo.pubghacker
