@@ -306,17 +306,18 @@ Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore12
 
 
 Package: org.cydia.kiimo.pubghacker1
- Version: 0.14.0-1b
- Section: Hacks Game
- Maintainer: Kiiimo <support@kiiimo.org>
- Depends: mobilesubstrate
- Conflicts: org.cydia.kiimo.pubghacker
- Architecture: iphoneos-arm
- Installed-Size: 604
- Name: PUBG Hack 3b v0.14.0
- Author: kgfunn&7mo0dd9
- Sponsor: kiiimo.org <http://kiiimo.org>
-
+Version: 0.14.0-1b
+Section: Hacks Game
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.pubghacker
+Architecture: iphoneos-arm
+Size: 121356
+Name: PUBG Hack 3b v0.14.0
+Author: kgfunn&7mo0dd9
+Sponsor: kiiimo.org <http://kiiimo.org>
+Filename: ./debfiles/org.cydia.kiimo.pubghacker1_0.14.0-1b_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id=org.cydia.kiimo.pubghacker1
 
 
 
