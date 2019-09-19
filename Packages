@@ -303,8 +303,6 @@ Filename: ./debfiles/com.anwarvip.appstore12_0.0.3_iphoneos-arm.deb
 SileoDepiction: https://anwarvip.github.io/3rab/pcg/Sileo.com.anwarvip.appstore12
 Depiction: http://anwarvip.github.io/description.html?id=com.anwarvip.appstore12
 
-
-
 Package: org.cydia.kiimo.pubghacker1
 Version: 0.14.0-1b
 Section: Hacks Game
@@ -319,5 +317,17 @@ Sponsor: kiiimo.org <http://kiiimo.org>
 Filename: ./debfiles/org.cydia.kiimo.pubghacker1_0.14.0-1b_iphoneos-arm.deb
 Depiction: http://anwarvip.github.io/description.html?id=org.cydia.kiimo.pubghacker1
 
+Package: com.iosgods.pubgSlider
+Name: pubg Slider
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iosgods.com
+Author: iosgods
+Section: Tweaks
+Homepage: iosgods.com
+Version: 12
+Size: 1833476
+Filename: ./debfiles/com.iosgods.pubgSlider_12_iphoneos-arm.deb
+Depiction: http://anwarvip.github.io/description.html?id=com.iosgods.pubgSlider
 
 
