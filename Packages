@@ -1,3 +1,19 @@
+Package: com.rileytestut.altstore.alpha.jailbroken
+Architecture: iphoneos-arm
+Version: 1.4a7
+Section: Tweaks
+Maintainer: Riley Testut
+Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
+Depends: com.rileytestut.altdaemon
+Filename: ./debfiles/com.rileytestut.altstore.alpha.jailbroken_1.4a7_iphoneos-arm.deb
+Size: 3241796
+MD5sum: 09d405b45df34fc6c4ac04c6443d8e29
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Author: Riley Testut - T7Y
+Homepage: https://anwarvip.github.io/
+Author: Riley Testut
+Depiction: http://anwarvip.github.io/description.html?id=com.rileytestut.altstore.alpha.jailbroken
 
 Author: Delewhopper, julioverne
 Maintainer: Julio
