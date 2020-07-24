@@ -13,7 +13,7 @@ Filename: ./debfiles/com.rileytestut.altdaemon_0.2_iphoneos-arm.deb
 Depiction: http://anwarvip.github.io/description.html?id=com.rileytestut.altdaemon
 Homepage: https://anwarvip.github.io/
 
-Package: applist
+Package: com.linusyang.appinst
 Name: AppList
 Architecture: iphoneos-arm
 Description: Allow extensions to read the list of installed apps
