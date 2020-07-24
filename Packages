@@ -14,23 +14,6 @@ Depiction: http://anwarvip.github.io/description.html?id=com.rileytestut.altdaem
 Homepage: https://anwarvip.github.io/
 MD5sum: da9adf74b588bad97fffa70d67273ead
 
-Package: com.linusyang.appinst
-Name: AppList
-Architecture: iphoneos-arm
-Description: Allow extensions to read the list of installed apps
-Maintainer: Ryan Petrich <rpetrich@gmail.com>
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
-Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Section: System
-Depiction: http://anwarvip.github.io/description.html?id=applist
-dev: rpetrich
-Version: 1.5.16
-Installed-Size: 780
-Homepage: https://anwarvip.github.io/
-Filename: ./debfiles/applist_1.5.16_iphoneos-arm.deb
-MD5sum: af1bdc77dd1805c249d416fa96957841
-
 Package: com.rileytestut.altstore.alpha.jailbroken
 Architecture: iphoneos-arm
 Version: 1.4a7
